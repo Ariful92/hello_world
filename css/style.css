@@ -1,0 +1,18 @@
+h1{
+	text-align: center;
+}
+
+.color{
+	width: 100px;
+	height: 100px;
+	/*background-color: red;*/
+}
+
+.bg{
+	height: 100px;
+	background-color: aqua;	
+	
+}
+h3{
+	text-align: center;
+}
